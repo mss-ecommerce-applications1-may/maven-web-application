@@ -4,7 +4,7 @@ metadata :
  name : mavenwebappdeploy
  namespace : test-ns
 spec :
-  replicas: 4
+  replicas: 7
   revisionHistoryLimit: 11
   selector:
    matchLabels:
