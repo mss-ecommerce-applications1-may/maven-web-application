@@ -17,7 +17,7 @@ spec :
     spec:
       containers:
       - name: mavenwebapp
-        image: ragavandockeraccount/kubernetes:1
+        image: roopakasireddy/maven-web-app:TAG
         ports:
         - containerPort: 8080
 ---
